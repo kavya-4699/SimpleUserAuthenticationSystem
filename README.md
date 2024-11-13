@@ -24,7 +24,7 @@ Step 3: Configuration:
         * Open config.php and db.php, then set your MySQL credentials (host, username, password, and database name).
         * CSRF Protection: Include csrf_token.php to handle CSRF token generation and validation.
 Step 4: Start the xampp server
-Step 5: Access `register.php` to create a new user(http://localhost/UserAuthenticationSystem/register.php), then log in at `login.php`.
+Step 5: Access `register.php` to create a new user(http://localhost/SimpleUserAuthenticationSystem/register.php), then log in at `login.php`.
 
 
 
